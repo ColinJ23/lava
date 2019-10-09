@@ -1,0 +1,16 @@
+
+.ui.borderless.inverted.menu {
+  background-color: #2B2B2B;
+  font-family: sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.left.leftitem.item {
+  font-size: larger;
+}
+
+.div.ui.borderless.inverted.menu.a.item {
+  background-color: darkorange !important;
+}
+
